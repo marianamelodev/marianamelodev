@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mariana Melo and I'm a Software Engineering student, from Brazil.</p>
+<p align="left">My name is Mariana Melo and I'm a Software Engineering undergraduate student, from Brazil.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning Python<br>🎯 </p>
+<p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning Python<br> </p>
 
 ###
 
-<h2 align="left">I code with JavaScript, Python (and tears)</h2>
+<h2 align="left">I code with JavaScript, Python, and Tears 😭</h2>
 
 ###
 
