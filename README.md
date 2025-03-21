@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with JavaScript, Python, and Tears 😭</h2>
+<h2 align="left">I code with JavaScript, Python, and tears 😭</h2>
 
 ###
 
