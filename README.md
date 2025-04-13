@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mariana Melo, and I'm a Software Engineering undergraduate student from Brazil.</p>
+<p align="left">I'm a Software Engineering undergraduate student from Brazil.</p>
 
 ###
 
