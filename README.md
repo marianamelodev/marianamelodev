@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineering undergraduate student from Brazil.</p>
+<p align="left">I'm a Software Engineering undergraduate student from Brazil. Data Science student.</p>
 
 ###
 
