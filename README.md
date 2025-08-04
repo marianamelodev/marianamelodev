@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate for technology<br>📚 Currently learning Python<br> </p>
+<p align="left">✨ Passionate for technology<br>📚 Currently learning Java, C and Python<br> </p>
 
 ###
 
@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
 </div>
 
