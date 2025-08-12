@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">I'm a Software Engineering and Data Science student.</p>
+<p align="left">I am currently transitioning into the technology field, passionate about solving problems and creating efficient solutions.
+I have experience as a bilingual Executive Assistant, where I developed communication, organizational, and analytical thinking skills, which I now apply to learning and developing projects in the tech field..</p>
 
 ###
 
@@ -10,11 +11,26 @@
 
 ###
 
-<p align="left">✨ Passionate for technology<br>📚 Currently learning Java, C and Python<br> </p>
+<p align="left">✨I'm currently studying Software Engineering and participating in training programs like Oracle Next Education (ONE), exploring programming languages, networking fundamentals, cloud computing, and software development processes.<br> </p>
 
 ###
 
-<h2 align="left">I code with JavaScript, Python, and tears 😭</h2>
+<h2 align="left">🎯 Objective
+Work as an intern or junior developer in an environment that encourages continuous learning, practical application of knowledge, and team collaboration to create innovative solutions.
+
+
+🚀 Technologies and Learning
+🌐 HTML and CSS (solid basics)
+📜 JavaScript (solid basics)
+🐍 Python (solid basics)
+☕ Java (learning)
+💻 C (learning)
+📁 Git and GitHub
+🧩 Programming Logic and Computational Mathematics
+
+📌 Featured Projects
+Telecom X - Customer Churn Analysis → Churn analysis with Python and Pandas.
+Alura Store → Sales analysis with Pandas and visualization with Matplotlib.</h2>
 
 ###
 
