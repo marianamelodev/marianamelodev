@@ -1,16 +1,5 @@
 <h1 align="left">Hello, there! What's up? 🐧✨</h1>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-</div>
-
 ###
 
 <p align="left">I am currently transitioning into the technology field, passionate about solving problems and creating efficient solutions.
@@ -32,8 +21,9 @@ Work as an intern or junior developer in an environment that encourages continuo
 
 ##
 # 📌 Featured Projects
-Telecom X - Customer Churn Analysis → Churn analysis with Python and Pandas.
-Alura Store → Sales analysis with Pandas and visualization with Matplotlib.
+- Telecom X - Customer Churn Analysis
+- Churn analysis with Python and Pandas.
+- Alura Store → Sales analysis with Pandas and visualization with Matplotlib.
 ###
 
 ##
@@ -46,4 +36,17 @@ Alura Store → Sales analysis with Pandas and visualization with Matplotlib.
 - 💻 C (learning)
 - 📁 Git and GitHub
 - 🧩 Programming Logic and Computational Mathematics
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+</div> 
+
+###
 
