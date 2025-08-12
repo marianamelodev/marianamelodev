@@ -23,7 +23,7 @@ Work as an intern or junior developer in an environment that encourages continuo
 # 📌 Featured Projects
 - Telecom X - Customer Churn Analysis
 - Churn analysis with Python and Pandas.
-- Alura Store → Sales analysis with Pandas and visualization with Matplotlib.
+- Alura Store - Sales analysis with Pandas and visualization with Matplotlib.
 ###
 
 ##
