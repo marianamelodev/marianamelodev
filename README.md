@@ -15,11 +15,11 @@ I have experience as a bilingual Executive Assistant, where I developed communic
 
 ###
 
-<h2 align="left">🎯 Objective
+<h2> align="left">🎯 Objective
 Work as an intern or junior developer in an environment that encourages continuous learning, practical application of knowledge, and team collaboration to create innovative solutions.</h2>
 
 
-## 🚀 Technologies and Learning
+🚀 Technologies and Learning
 🌐 HTML and CSS (solid basics)
 📜 JavaScript (solid basics)
 🐍 Python (solid basics)
