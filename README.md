@@ -11,7 +11,7 @@ I have experience as a bilingual Executive Assistant, where I developed communic
 
 ###
 
-<p align="left">✨I'm currently studying Software Engineering and participating in training programs like Oracle Next Education (ONE), exploring programming languages, networking fundamentals, cloud computing, and software development processes.<br> </p>
+<p align="left">✨I'm a Software Engineering undergraduate and I also participate in training programmes like Oracle Next Education (ONE), exploring programming languages, networking fundamentals, soft skills, data science and software development processes.<br> </p>
 
 ###
 
