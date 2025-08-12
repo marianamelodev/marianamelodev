@@ -16,7 +16,7 @@ I have experience as a bilingual Executive Assistant, where I developed communic
 ###
 
 ##
-# 🎯 Objective
+# 🎯 Goals
 Work as an intern or junior developer in an environment that encourages continuous learning, practical application of knowledge, and team collaboration to create innovative solutions.
 
 ##
