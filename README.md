@@ -16,20 +16,17 @@ I have experience as a bilingual Executive Assistant, where I developed communic
 ###
 
 ##
-#
-🎯 Objective
+# 🎯 Objective
 Work as an intern or junior developer in an environment that encourages continuous learning, practical application of knowledge, and team collaboration to create innovative solutions.
 
 ##
-#
-📌 Featured Projects
+# 📌 Featured Projects
 Telecom X - Customer Churn Analysis → Churn analysis with Python and Pandas.
 Alura Store → Sales analysis with Pandas and visualization with Matplotlib.
 ###
 
 ##
-#
-🚀 Technologies and Learning
+# 🚀 Technologies and Learning
 
 🌐 HTML and CSS (solid basics)
 📜 JavaScript (solid basics)
